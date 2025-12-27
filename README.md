@@ -1,4 +1,4 @@
-# Monitoring jankins operation using Promethus and Grafan
+# Monitoring Jenkins operation using Promethus and Grafan
 
 You will need 2 vm to follow this guide.
 
