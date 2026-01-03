@@ -106,7 +106,7 @@ You will now be greated with an empth home page, but before doing any thing else
 # Step 5 - Install plugins
 ```
 
-Navigate to **Settings gear > System Configuration > Plugins > Availabe Plugins > Seacth prometheus > Install Prometheus metrics**
+Navigate to **Settings gear > System Configuration > Plugins > Availabe Plugins > Search prometheus > Install Prometheus metrics**
 
 Jenkins will ask to restart, let it do its thing.
 
